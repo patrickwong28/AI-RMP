@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Elena Martinez",
+        "subject": "Organic Chemistry",
+        "stars": 4,
+        "review": "Dr. Martinez explains complex concepts clearly. Her enthusiasm for the subject is contagious."
+      },
+      {
+        "professor": "Prof. John Smith",
+        "subject": "World History",
+        "stars": 3,
+        "review": "Lectures can be dry, but the content is interesting. More interactive sessions would help."
+      },
+      {
+        "professor": "Dr. Samantha Lee",
+        "subject": "Artificial Intelligence",
+        "stars": 5,
+        "review": "Brilliant professor! Dr. Lee's practical approach and industry insights are invaluable."
+      },
+      {
+        "professor": "Prof. Michael Brown",
+        "subject": "English Literature",
+        "stars": 2,
+        "review": "Assignments are unclear and grading seems arbitrary. Struggles to engage the class."
+      },
+      {
+        "professor": "Dr. Ahmed Hassan",
+        "subject": "Quantum Physics",
+        "stars": 4,
+        "review": "Challenging course, but Dr. Hassan's patience and clear explanations make it manageable."
+      },
+      {
+        "professor": "Prof. Linda Chen",
+        "subject": "Marketing Strategy",
+        "stars": 5,
+        "review": "Prof. Chen's real-world examples and guest speakers make this course incredibly valuable."
+      },
+      {
+        "professor": "Dr. Robert Johnson",
+        "subject": "Microbiology",
+        "stars": 3,
+        "review": "Content is interesting but the pace is too fast. More lab time would be beneficial."
+      },
+      {
+        "professor": "Prof. Emily White",
+        "subject": "Constitutional Law",
+        "stars": 4,
+        "review": "Prof. White's debates are thought-provoking. Challenging but rewarding course."
+      },
+      {
+        "professor": "Dr. David Lee",
+        "subject": "Calculus II",
+        "stars": 2,
+        "review": "Dr. Lee seems knowledgeable but struggles to explain concepts to students who are struggling."
+      },
+      {
+        "professor": "Prof. Sarah Thompson",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Passionate and knowledgeable. Field trips and hands-on projects make this course outstanding."
+      },
+      {
+        "professor": "Dr. Carlos Rodriguez",
+        "subject": "Spanish Literature",
+        "stars": 4,
+        "review": "Dr. Rodriguez's enthusiasm for the subject is evident. Encourages critical thinking."
+      },
+      {
+        "professor": "Prof. Jessica Parker",
+        "subject": "Introduction to Psychology",
+        "stars": 3,
+        "review": "Lectures are informative but could be more engaging. Exams are fair."
+      },
+      {
+        "professor": "Dr. Thomas Green",
+        "subject": "Astrophysics",
+        "stars": 5,
+        "review": "Mind-blowing course! Dr. Green makes complex topics accessible and fascinating."
+      },
+      {
+        "professor": "Prof. Anna Kovacs",
+        "subject": "International Relations",
+        "stars": 4,
+        "review": "Prof. Kovacs brings a wealth of experience. Discussions are always lively and informative."
+      },
+      {
+        "professor": "Dr. William Chen",
+        "subject": "Organic Chemistry",
+        "stars": 2,
+        "review": "Material is very difficult and Dr. Chen's teaching style doesn't help. Need more practice problems."
+      },
+      {
+        "professor": "Prof. Maria Garcia",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Prof. Garcia's passion for art is infectious. Virtual museum tours are a great addition."
+      },
+      {
+        "professor": "Dr. James Wilson",
+        "subject": "Machine Learning",
+        "stars": 4,
+        "review": "Challenging but rewarding. Dr. Wilson provides great insights into real-world applications."
+      },
+      {
+        "professor": "Prof. Laura Baker",
+        "subject": "Creative Writing",
+        "stars": 3,
+        "review": "Provides good feedback, but could offer more diverse writing exercises and prompts."
+      },
+      {
+        "professor": "Dr. Alexander Petrova",
+        "subject": "Russian Literature",
+        "stars": 5,
+        "review": "Dr. Petrova's deep understanding and storytelling ability make this course unforgettable."
+      },
+      {
+        "professor": "Prof. Olivia Chang",
+        "subject": "Biochemistry",
+        "stars": 4,
+        "review": "Clear explanations of complex topics. Prof. Chang is always willing to help outside of class."
+      }
+    ]
+  }
